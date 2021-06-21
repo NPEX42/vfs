@@ -1,0 +1,13 @@
+[package]
+name = "vfs"
+version = "0.1.0"
+authors = ["NPEX42 <NPEX42@gmail.com>"]
+edition = "2018"
+
+[lib]
+name = "vfs_lib"
+path = "src/lib/lib.rs"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
